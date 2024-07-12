@@ -73,7 +73,7 @@
   <nav class="main-header navbar navbar-expand navbar-dark navbar-dark">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" data-widget="pushmenu" href="" role="button"><i class="fas fa-bars"></i> Tambah Dosen Universitas Tigaraksa</a>
+        <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i> Tambah Dosen Universitas Tigaraksa</a>
       </li>
     </ul>
   </nav>
@@ -133,6 +133,7 @@
                 <input type="text" name="nama_matkul" id="nama_matkul" class="form-control" required>
               </div>
               <button type="submit" class="btn btn-dark"><i class="fas fa-plus"></i> Tambah Dosen</button>
+              <a href="/dosen" class="btn btn-danger"><i class="fas fa-arrow-left"></i> Kembali</a>
             </form>
             
           </div>
